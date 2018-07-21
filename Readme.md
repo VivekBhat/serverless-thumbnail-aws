@@ -7,7 +7,7 @@ Working of the app:
 3. Thumbnail will be uploaded to the bucket with a _thumbnail suffix
 
 
-### Requrirements
+### Requirements
 
 Please install the following plugin:
 https://github.com/UnitedIncome/serverless-python-requirements
