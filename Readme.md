@@ -1,4 +1,4 @@
-# Python S3 Thumbnail
+# Serverless Thumbnail Generator
 In this project I am using the serverless deployment template to deploy a serverless app.
 
 ### About the app
