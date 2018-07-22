@@ -17,3 +17,9 @@ https://github.com/UnitedIncome/serverless-python-requirements
 ```
 npm install --save serverless-python-requirements
 ```
+
+### Credits: 
+* [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+* [AWS Docs](https://github.com/awsdocs)
+* [AWS Doc SDK Examples](https://github.com/awsdocs/aws-doc-sdk-examples)
+* [AWS SDK for JavaScript examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javascript)
