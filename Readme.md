@@ -1,8 +1,11 @@
 # Python S3 Thumbnail
 In this project I am using the serverless deployment template to deploy a serverless app.
 
-Working of the app:
-1. Upload a file to the S3 bucket
+### About the app
+Once an image is uploaded to the S3 bucket a Thumbnail of the same image will be created and uploaded in the same bucket with a '_thumbnail' suffix
+
+### Working of the app:
+1. Upload an image to the S3 bucket (.png extension)
 2. This will trigger the Lambda function that will convert the image to a thumbnail
 3. Thumbnail will be uploaded to the bucket with a _thumbnail suffix
 
@@ -19,7 +22,7 @@ npm install --save serverless-python-requirements
 ```
 
 ### Useful Links: 
+* [AWS Documentation](https://aws.amazon.com/documentation/)
 * [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-* [AWS Docs](https://github.com/awsdocs)
+* [AWS Documentation on Github](https://github.com/awsdocs)
 * [AWS Doc SDK Examples](https://github.com/awsdocs/aws-doc-sdk-examples)
-* [AWS SDK for JavaScript examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/javascript)
