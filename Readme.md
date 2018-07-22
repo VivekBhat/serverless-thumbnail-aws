@@ -6,7 +6,9 @@ Working of the app:
 2. This will trigger the Lambda function that will convert the image to a thumbnail
 3. Thumbnail will be uploaded to the bucket with a _thumbnail suffix
 
+## Architecture
 
+![architecture](aws-s3-thumbnail-lambda.png)
 ### Requirements
 
 Please install the following plugin:
