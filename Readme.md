@@ -11,7 +11,7 @@ Once an image is uploaded to the S3 bucket a Thumbnail of the same image will be
 
 ## Architecture
 
-![architecture](aws-s3-thumbnail-lambda.png)
+![architecture](https://github.com/VivekBhat/serverless-thumbnail-aws/blob/master/aws-s3-thumbnail-lambda.png?raw=true)
 ### Requirements
 
 Please install the following plugin:
